@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   contribute, and thrive.
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -62,31 +62,12 @@ author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/profile.php?id=61578338322349"
 
 defaults:
   # _posts

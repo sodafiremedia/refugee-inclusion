@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Programs"
+    url: /programs/
+  - title: "Get Involved"
+    url: /get-involved/
+  - title: "Contact"
+    url: /contact/
