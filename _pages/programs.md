@@ -1,7 +1,10 @@
 ---
 title: "Programs"
 permalink: /programs/
-author_profile: true
+# author_profile: true
+layout: splash
+header:
+  overlay_image: /assets/images/refugee-inclusion2.jpeg
 ---
 
 # Our work focuses on four key areas:
