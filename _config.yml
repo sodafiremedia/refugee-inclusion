@@ -33,6 +33,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+logo: "/assets/images/refugee-inclusion-logo.jpg"
 
 include:
   - _pages
@@ -58,10 +59,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+# author:
+#   name   : "First Lastname"
+#   avatar : "/assets/images/bio-photo.jpg"
+#   bio    : "My awesome biography constrained to a sentence or two goes here."
 
 footer:
   links:
