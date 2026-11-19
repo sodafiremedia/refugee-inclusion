@@ -5,7 +5,6 @@ layout: splash
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.5"
-  padding: "8em 0"
   overlay_image: /assets/images/refugee-inclusion-stock3.png
 ---
 

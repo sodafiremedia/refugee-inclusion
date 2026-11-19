@@ -73,11 +73,10 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/about"
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: splash
       read_time: true
       comments: true
       share: true
